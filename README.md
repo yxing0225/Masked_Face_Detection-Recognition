@@ -1,5 +1,7 @@
 # Masked_Face_Detection-Recognition
 
+check the <b>demo.mp4</b> to check how it works
+
 ## Description
 
 * machine learing project 
@@ -10,40 +12,50 @@ But,the FaceID on iPhone or iPad devices only works without masks. It is invonve
 
 ## Getting Started
 
-### Dependencies
+### Libraries
 
-* A
-* B
+* openCV
+* Numpy
+* Tensorflow
+* sklearn
+* matplotlib
+* os
+* json
+* math
+* dependency on inception_resnet_v1 : http://www.apache.org/licenses/LICENSE-2.0
 
-### Installing
+Copyright 2016 The TensorFlow Authors. All Rights Reserved.
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+http://www.apache.org/licenses/LICENSE-2.0
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+### data
+
+* training data: CASIA
+* test data: lfw
+* part of google face data
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
+* run the real_time_face_recognition.py. Using computer camera catch video stream detection face and recognition. 
+* using the trained recognition model. 
 ```
 code blocks for commands
 ```
-
 ## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+
 
 ## Authors
 
 Yue_Xing
 
-ex. [@LinkedIn](www.linkedin.com/in/yue-xing-123a781a9)
-
 ## Version History
 
-* 0.2
-    * Various bug fixes and optimizations
-* 0.1
-    * Initial Release
