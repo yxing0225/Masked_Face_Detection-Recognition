@@ -6,6 +6,7 @@ check the <b>demo.mp4</b> to check how it works
 
 * machine learing project 
 * Deep Learning
+* SSD
 * inception Net and ResNet
 
 Nowadays, people have to wear masks due to the COVID-19 pandemic. 
@@ -48,6 +49,7 @@ limitations under the License.
 
 * run the real_time_face_recognition.py. Using computer camera catch video stream detection face and recognition. 
 * using the trained recognition model. 
+* ![image](https://user-images.githubusercontent.com/60112459/140617469-891ad31d-7b58-4463-9e23-117132451968.png)
 * ![image](https://user-images.githubusercontent.com/60112459/140617321-7838ed38-9c6d-4f40-9794-1efcb27a69ce.png)
 * ![image](https://user-images.githubusercontent.com/60112459/140617348-6689c02c-0350-4e19-a630-6df7bf2e2fe3.png)
 
