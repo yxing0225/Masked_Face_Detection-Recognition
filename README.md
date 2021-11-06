@@ -49,8 +49,7 @@ limitations under the License.
 
 * run the real_time_face_recognition.py. Using computer camera catch video stream detection face and recognition. 
 * using the trained recognition model. 
-* ![image](https://user-images.githubusercontent.com/60112459/140617469-891ad31d-7b58-4463-9e23-117132451968.png)
-* ![image](https://user-images.githubusercontent.com/60112459/140617321-7838ed38-9c6d-4f40-9794-1efcb27a69ce.png)
+* ![image](https://user-images.githubusercontent.com/60112459/140617527-99f093a1-3d27-41d4-a14a-169b15e27f7c.png)
 * ![image](https://user-images.githubusercontent.com/60112459/140617348-6689c02c-0350-4e19-a630-6df7bf2e2fe3.png)
 
 
