@@ -1,6 +1,5 @@
 # Masked_Face_Detection-Recognition
 
-Simple overview of use/purpose.
 <p align="center">Project Description</p>
 ## Description
 *machine learing project 
