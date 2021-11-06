@@ -23,6 +23,7 @@ But,the FaceID on iPhone or iPad devices only works without masks. It is invonve
 * os
 * json
 * math
+* Dlib (for create mask face data)
 * dependency on inception_resnet_v1 : http://www.apache.org/licenses/LICENSE-2.0
 
 Copyright 2016 The TensorFlow Authors. All Rights Reserved.
